@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/chilobrahus.github.io/goit-react-hw-02-feedback/static/css/main.89c9868c.css",
+    "main.css": "/chilobrahus.github.io/goit-react-hw-02-feedback/static/css/main.cc286989.css",
     "main.js": "/chilobrahus.github.io/goit-react-hw-02-feedback/static/js/main.a6921b33.js",
     "index.html": "/chilobrahus.github.io/goit-react-hw-02-feedback/index.html",
-    "main.89c9868c.css.map": "/chilobrahus.github.io/goit-react-hw-02-feedback/static/css/main.89c9868c.css.map",
+    "main.cc286989.css.map": "/chilobrahus.github.io/goit-react-hw-02-feedback/static/css/main.cc286989.css.map",
     "main.a6921b33.js.map": "/chilobrahus.github.io/goit-react-hw-02-feedback/static/js/main.a6921b33.js.map"
   },
   "entrypoints": [
-    "static/css/main.89c9868c.css",
+    "static/css/main.cc286989.css",
     "static/js/main.a6921b33.js"
   ]
 }
